@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+}
+
+div {
+  justify-items: center;
+}
+
+button {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
